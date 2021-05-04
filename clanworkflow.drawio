@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T14:30:09.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" version="14.6.9" etag="CMQ__zBv0V2_VP7m1n19" type="github"><diagram id="RfpNTJ9veeR0UO0Lct0X">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-04T16:23:40.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="Kgz95XsYFC5dkzBlHWWe" version="14.6.9" type="github">
+  <diagram id="RfpNTJ9veeR0UO0Lct0X" name="Page-1">
+    <mxGraphModel dx="1172" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-54" value="ALPHA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="890" y="560" width="750" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="995" y="930" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="N6XDs_oPTWnc6v9uHJOH-46" target="N6XDs_oPTWnc6v9uHJOH-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="995" y="780" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-40" value="&lt;h1&gt;Clan reg bot&lt;/h1&gt;&lt;h3&gt;MVP&lt;/h3&gt;&lt;div&gt;Send form responses to discord&lt;/div&gt;&lt;div&gt;work with one form provider&lt;/div&gt;&lt;h3&gt;ALPHA&lt;/h3&gt;&lt;div&gt;Send clan invitation&lt;/div&gt;&lt;div&gt;&lt;h3&gt;BETA&lt;/h3&gt;&lt;/div&gt;&lt;div&gt;closed trial program&lt;/div&gt;&lt;h3&gt;RC&lt;/h3&gt;&lt;div&gt;request able invite&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="40" width="190" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-41" value="When enough votes / required approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-42" value="yellow circle react appears" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="795" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-43" value="Append to voting message&lt;br&gt;Consesus reached, react with yellow circle to invite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="795" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="N6XDs_oPTWnc6v9uHJOH-44" target="N6XDs_oPTWnc6v9uHJOH-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-44" value="modmin reacts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="955" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-45" value="Invite sent on behalf of reactor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="955" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-47" value="&lt;span style=&quot;font-weight: normal&quot;&gt;bot checks bungie api&lt;br&gt;for clan invite&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1060" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-50" value="circle react removed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-51" value="message updated&lt;br&gt;&quot;sending invite&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-55" value="MVP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="730" y="30" width="910" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-56" value="Form Response submitted" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="50" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-57" value="Webhook sent from form to bot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-58" value="!regform new formname&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="50" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-59" value="!regform formname steamurl fieldid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="995" y="570" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-64" value="form exists" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-65" value="form doesn&#39;t exist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-66" value="bot replies with embed of form fields&lt;br&gt;instructions on linking steam url &amp;amp; discord id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-67" value="!regform formname discordid fieldid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-68" value="Bot sends embed with form responses" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-69" value="Creates link to steam profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-70" value="Bot posts to channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="585" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-73" value="error" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-74" value="!regform edit formname&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="50" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-75" value="form exists" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6XDs_oPTWnc6v9uHJOH-76" value="form doesn&#39;t exist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
